@@ -1,1 +1,1 @@
-Ironhack Web Bootcamp Exercises (...in the making...)
+Object Oriented JS - Ironhack Coding Bootcamp.
